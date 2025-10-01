@@ -1,5 +1,11 @@
-// STM32L432KC_GPIO.h
-// Header for GPIO functions
+/*
+
+File    : STM32L432KC_GPIO.h
+Author  : Erin Wang
+Date    : 9/30/2025
+Purpose : Header for GPIO functions
+
+*/
 
 #ifndef STM32L4_GPIO_H
 #define STM32L4_GPIO_H
