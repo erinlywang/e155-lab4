@@ -1,5 +1,11 @@
-// STM32L432KC_FLASH.h
-// Header for FLASH functions
+/*
+
+File    : STM32L432KC_FLASH.h
+Author  : Erin Wang
+Date    : 9/30/2025
+Purpose : Header code for FLASH functions
+
+*/
 
 #ifndef STM32L4_FLASH_H
 #define STM32L4_FLASH_H
