@@ -1,5 +1,11 @@
-// STM32L432KC_GPIO.c
-// Source code for GPIO functions
+/*
+
+File    : STM32L432KC_GPIO.c
+Author  : Erin Wang
+Date    : 9/30/2025
+Purpose : Source code for GPIO functions
+
+*/
 
 #include "STM32L432KC_GPIO.h"
 
