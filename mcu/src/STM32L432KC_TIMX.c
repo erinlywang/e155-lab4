@@ -1,5 +1,11 @@
-// STM32L432KC_TIMX.c
-// Source code for TIMX functions
+/*
+
+File    : STM32L432KC_TIMX.c
+Author  : Erin Wang
+Date    : 9/30/2025
+Purpose : Source code for TIMX functions (initTIM is for initializing the delay timer)
+
+*/
 
 #include "STM32L432KC_TIMX.h"
 
