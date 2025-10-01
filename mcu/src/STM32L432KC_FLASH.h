@@ -3,7 +3,7 @@
 File    : STM32L432KC_FLASH.h
 Author  : Erin Wang
 Date    : 9/30/2025
-Purpose : Header code for FLASH functions
+Purpose : Header for FLASH functions
 
 */
 
