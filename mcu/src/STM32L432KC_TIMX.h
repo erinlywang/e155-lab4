@@ -1,5 +1,11 @@
-// STM32L432KC_TIMX.h
-// Header for TIMX functions (made from TIM15 register)
+/*
+
+File    : STM32L432KC_TIMX.h
+Author  : Erin Wang
+Date    : 9/30/2025
+Purpose : Header for TIMX functions (made from TIM15 register)
+
+*/
 
 #ifndef STM32L4_TIMX_H
 #define STM32L4_TIMX_H
