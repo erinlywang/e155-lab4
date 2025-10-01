@@ -1,5 +1,5 @@
-// STM32L432KC_RCC.h
-// Header for RCC functions
+// STM32L432KC_TIMX.h
+// Header for TIMX functions (made from TIM15 register)
 
 #ifndef STM32L4_TIMX_H
 #define STM32L4_TIMX_H
