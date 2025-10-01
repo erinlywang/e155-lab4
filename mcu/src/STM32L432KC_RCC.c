@@ -1,5 +1,11 @@
-// STM32L432KC_RCC.c
-// Source code for RCC functions
+/*
+
+File    : STM32L432KC_RCC.c
+Author  : Erin Wang
+Date    : 9/30/2025
+Purpose : Source code for RCC functions
+
+*/
 
 #include "STM32L432KC_RCC.h"
 
