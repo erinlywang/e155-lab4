@@ -7,7 +7,7 @@
 
 File    : main.c
 Author  : Erin Wang
-Date    : 9/27/2025
+Date    : 9/30/2025
 Purpose : Play music notes on an LM386 speaker given an input note
           frequency and note duration
 
