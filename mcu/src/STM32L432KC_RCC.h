@@ -1,3 +1,12 @@
+/*
+
+File    : STM32L432KC_RCC.h
+Author  : Erin Wang
+Date    : 9/30/2025
+Purpose : Header for RCC functions
+
+*/
+
 // STM32L432KC_RCC.h
 // Header for RCC functions
 
