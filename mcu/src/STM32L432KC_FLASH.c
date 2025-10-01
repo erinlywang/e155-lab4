@@ -1,5 +1,11 @@
-// STM32L432KC_FLASH.c
-// Source code for FLASH functions
+/*
+
+File    : STM32L432KC_FLASH.c
+Author  : Erin Wang
+Date    : 9/30/2025
+Purpose : Source code for FLASH functions
+
+*/
 
 #include "STM32L432KC_FLASH.h"
 
